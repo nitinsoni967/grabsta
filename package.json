@@ -1,0 +1,12 @@
+{
+  "name": "insta-downloader",
+  "version": "1.0.0",
+  "description": "Instagram video and carousel downloader",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
